@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedLists", "MergeTwoSortedLists\MergeTwoSortedLists.csproj", "{AEB2338E-0DF9-4699-92D9-78650B4F1CE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{0A61B184-F3CC-4AD3-A7DE-B364BFB66BD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideTwoIntegers", "DivideTwoIntegers\DivideTwoIntegers.csproj", "{0800E995-FE44-4F75-B6C8-E63A2DEB65AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{BBFA7888-3EC7-4BD7-80CD-23491D4B12C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB2338E-0DF9-4699-92D9-78650B4F1CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB2338E-0DF9-4699-92D9-78650B4F1CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB2338E-0DF9-4699-92D9-78650B4F1CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB2338E-0DF9-4699-92D9-78650B4F1CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A61B184-F3CC-4AD3-A7DE-B364BFB66BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A61B184-F3CC-4AD3-A7DE-B364BFB66BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A61B184-F3CC-4AD3-A7DE-B364BFB66BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A61B184-F3CC-4AD3-A7DE-B364BFB66BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0800E995-FE44-4F75-B6C8-E63A2DEB65AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0800E995-FE44-4F75-B6C8-E63A2DEB65AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0800E995-FE44-4F75-B6C8-E63A2DEB65AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0800E995-FE44-4F75-B6C8-E63A2DEB65AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBFA7888-3EC7-4BD7-80CD-23491D4B12C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFA7888-3EC7-4BD7-80CD-23491D4B12C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFA7888-3EC7-4BD7-80CD-23491D4B12C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFA7888-3EC7-4BD7-80CD-23491D4B12C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
